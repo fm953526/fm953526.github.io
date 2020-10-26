@@ -1,65 +1,103 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html>
+
 <head>
-  <meta charset="utf-8">
-
-  <title>Cocos Creator 3D | BoBing</title>
-
-  <!--http://www.html5rocks.com/en/mobile/mobifying/-->
-  <meta name="viewport"
-        content="width=device-width,user-scalable=no,initial-scale=1, minimum-scale=1,maximum-scale=1"/>
-
-  <!--https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html-->
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="format-detection" content="telephone=no">
-
-  <!-- force webkit on 360 -->
-  <meta name="renderer" content="webkit"/>
-  <meta name="force-rendering" content="webkit"/>
-  <!-- force edge on IE -->
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
-  <meta name="msapplication-tap-highlight" content="no">
-
-  <!-- force full screen on some browser -->
-  <meta name="full-screen" content="yes"/>
-  <meta name="x5-fullscreen" content="true"/>
-  <meta name="360-fullscreen" content="true"/>
-  
-  <!-- force screen orientation on some browser -->
-  <meta name="screen-orientation" content="portrait"/>
-  <meta name="x5-orientation" content="portrait">
-
-  <!--fix fireball/issues/3568 -->
-  <!--<meta name="browsermode" content="application">-->
-  <meta name="x5-page-mode" content="app">
-
-  <!--<link rel="apple-touch-icon" href=".png" />-->
-  <!--<link rel="apple-touch-icon-precomposed" href=".png" />-->
-
-  <link rel="stylesheet" type="text/css" href="style.css"/>
-
+    <meta charset="utf-8">
+    <title>SlotMachine</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="full-screen" content="true" />
+    <meta name="screen-orientation" content="portrait" />
+    <meta name="x5-fullscreen" content="true" />
+    <meta name="360-fullscreen" content="true" />
+    <style>
+        @font-face {
+            font-family: 'Lobster';
+            src:url('resource/assets/data/Lobster.ttf');
+        }
+        html, body {
+            -ms-touch-action: none;
+            background: #000000;
+            padding: 0;
+            border: 0;
+            margin: 0;
+            height: 100%;
+        }
+    </style>
 </head>
+
 <body>
-  <canvas id="GameCanvas" oncontextmenu="event.preventDefault()" tabindex="0"></canvas>
-  
-<script src="./vconsole.min.js"></script>
-<script type="text/javascript">
-    // open web debugger console
-    window.VConsole && (window.vConsole = new VConsole());
+    <iframe src="resource/silence.mp3" allow="autoplay" id="audio" style="display:none" ></iframe>
+    <div style="margin: auto;width: 100%;height: 100%;" class="egret-player"
+         data-entry-class="Main"
+         data-orientation="landscape"
+         data-scale-mode="fixedNarrow"
+         data-frame-rate="60"
+         data-content-width="1280"
+         data-content-height="720"
+         data-multi-fingered="2"
+         data-show-fps="false" data-show-log="false"
+         data-show-fps-style="x:0,y:0,size:12,textColor:0xffffff,bgAlpha:0.9">
+    </div>
+<script>
+    //document.getElementById('player').play();
+    var loadScript = function (list, callback) {
+        var loaded = 0;
+        var loadNext = function () {
+            loadSingleScript(list[loaded], function () {
+                loaded++;
+                if (loaded >= list.length) {
+                    callback();
+                }
+                else {
+                    loadNext();
+                }
+            })
+        };
+        loadNext();
+    };
+
+    var loadSingleScript = function (src, callback) {
+        var s = document.createElement('script');
+        s.async = false;
+        s.src = src;
+        s.addEventListener('load', function () {
+            s.parentNode.removeChild(s);
+            s.removeEventListener('load', arguments.callee, false);
+            callback();
+        }, false);
+        document.body.appendChild(s);
+    };
+
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', './manifest.json?v=' + Math.random(), true);
+    xhr.addEventListener("load", function () {
+        var manifest = JSON.parse(xhr.response);
+        var list = manifest.initial.concat(manifest.game);
+        loadScript(list, function () {
+            /**
+             * {
+             * "renderMode":, //Engine rendering mode, "canvas" or "webgl"
+             * "audioType": 0 //Use the audio type, 0: default, 2: web audio, 3: audio
+             * "antialias": //Whether the anti-aliasing is enabled in WebGL mode, true: on, false: off, defaults to false
+             * "calculateCanvasScaleFactor": //a function return canvas scale factor
+             * }
+             **/
+            egret.runEgret({ renderMode: "webgl", audioType: 0, calculateCanvasScaleFactor:function(context) {
+                var backingStore = context.backingStorePixelRatio ||
+                    context.webkitBackingStorePixelRatio ||
+                    context.mozBackingStorePixelRatio ||
+                    context.msBackingStorePixelRatio ||
+                    context.oBackingStorePixelRatio ||
+                    context.backingStorePixelRatio || 1;
+                return (window.devicePixelRatio || 1) / backingStore;
+            }});
+        });
+    });
+    xhr.send(null);
+    //禁用鼠标右键
+    document.oncontextmenu = function(){return false;}
 </script>
-
-<!-- Polyfills bundle. -->
-<script src="src/polyfills.bundle.js" charset="utf-8"> </script>
-
-<!-- SystemJS support. -->
-<script src="src/system.bundle.js" charset="utf-8"> </script>
-
-<!-- Manifest file. -->
-<script src="src/settings.js" charset="utf-8"></script>
-
-<!-- Contains window.boot() which bootstrap the logic. -->
-<script src="main.js" charset="utf-8"></script>
-
 </body>
+
 </html>

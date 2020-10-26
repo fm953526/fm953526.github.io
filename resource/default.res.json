@@ -1,0 +1,1361 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,sxbjl_window_feedback_bg2_png,sxbjl_windows_setting_png,sxbjl_windows_setting_adjustment1_png,sxbjl_windows_setting_adjustment2_png,sxbjl_windows_setting_btn_png,sxbjl_windows_setting_music_png,sxbjl_windows_setting_sound_png,sxbjl_windows_setting_sound_off_png,sxbjl_windows_setting_sound_on_png,sxbjl_windows_tips_bg_png,sxbjl_windows_tips_close_png,sxbjl_windows_tips_confirm_png,timer_png,common0_png,loading0_png,loading1_png,loading2_png,loading3_png,loading4_png,loading5_png,loading6_png,loading7_png",
+			"name": "preload"
+		},
+		{
+			"keys": "loading_bg_jpg",
+			"name": "load"
+		},
+		{
+			"keys": "window_open_mp3,bjl_bgm_mp3,bjl_chipfly_short_mp3,bjl_chipfly_long_mp3,bjl_bet_mp3",
+			"name": "bjl_sound"
+		},
+		{
+			"keys": "btn_full_png,card_1_png,card_10_png,card_11_png,card_12_png,card_13_png,card_14_png,card_15_png,card_16_png,card_17_png,card_18_png,card_19_png,card_2_png,card_20_png,card_21_png,card_22_png,card_23_png,card_24_png,card_25_png,card_26_png,card_27_png,card_28_png,card_29_png,card_3_png,card_30_png,card_31_png,card_32_png,card_33_png,card_34_png,card_35_png,card_36_png,card_37_png,card_38_png,card_39_png,card_4_png,card_40_png,card_41_png,card_42_png,card_43_png,card_44_png,card_45_png,card_46_png,card_47_png,card_48_png,card_49_png,card_5_png,card_50_png,card_51_png,card_52_png,card_6_png,card_7_png,card_8_png,card_9_png,poker_card_back_png,sxbjl_game_chip_10_png,sxbjl_game_chip_100_png,sxbjl_game_chip_1000_png,sxbjl_game_chip_10000_png,sxbjl_game_chip_20_png,sxbjl_game_chip_200_png,sxbjl_game_chip_2000_png,sxbjl_game_chip_20000_png,sxbjl_game_chip_2500_png,sxbjl_game_chip_3000_png,sxbjl_game_chip_4_png,sxbjl_game_chip_40_png,sxbjl_game_chip_50_png,sxbjl_game_chip_500_png,sxbjl_game_chip_5000_png,sxbjl_game_chip_6000_png,sxbjl_game_chip_bg_png,sxbjl_game_chip_xuanzhong_png,game_bg_png,game_bottom_bg_png,icon_money_png,game_txt_back_png,game_txt_help_png,game_txt_record_png,game_txt_setting_png,game_txt_suggest_png,sxbjl_game_caidan_bg_png,sxbjl_game_caidan_btn_bangzhu_png,sxbjl_game_caidan_btn_fankui_png,sxbjl_game_caidan_btn_jilv_png,sxbjl_game_caidan_btn_shezhi_png,sxbjl_game_caidan_btn_tuichu_png,blue_l_png,btn_cancel_png,red_l_png,slash_blue_m_png,slash_red_m_png,sxbjl_game_ludan_bg_png,sxbjl_game_ludan_bg2_png,sxbjl_game_ludan_img_dalu1_png,sxbjl_game_ludan_img_dalu2_png,sxbjl_game_ludan_img_dalu3_png,sxbjl_game_ludan_img_dalu4_png,sxbjl_game_ludan_img_dayanlu1_png,sxbjl_game_ludan_img_dayanlu2_png,sxbjl_game_ludan_img_dayanlu3_png,sxbjl_game_ludan_img_dayanlu4_png,sxbjl_game_ludan_img_xiaolu1_png,sxbjl_game_ludan_img_xiaolu2_png,sxbjl_game_ludan_img_xiaoqianglu1_png,sxbjl_game_ludan_img_xiaoqianglu2_png,sxbjl_game_ludan_img_zhuzailu_s1_png,sxbjl_game_ludan_img_zhuzailu_s10_png,sxbjl_game_ludan_img_zhuzailu_s11_png,sxbjl_game_ludan_img_zhuzailu_s12_png,sxbjl_game_ludan_img_zhuzailu_s2_png,sxbjl_game_ludan_img_zhuzailu_s3_png,sxbjl_game_ludan_img_zhuzailu_s4_png,sxbjl_game_ludan_img_zhuzailu_s5_png,sxbjl_game_ludan_img_zhuzailu_s6_png,sxbjl_game_ludan_img_zhuzailu_s7_png,sxbjl_game_ludan_img_zhuzailu_s8_png,sxbjl_game_ludan_img_zhuzailu_s9_png,sxbjl_game_ludan_img_zhuzailu1_png,sxbjl_game_ludan_img_zhuzailu10_png,sxbjl_game_ludan_img_zhuzailu11_png,sxbjl_game_ludan_img_zhuzailu12_png,sxbjl_game_ludan_img_zhuzailu2_png,sxbjl_game_ludan_img_zhuzailu3_png,sxbjl_game_ludan_img_zhuzailu4_png,sxbjl_game_ludan_img_zhuzailu5_png,sxbjl_game_ludan_img_zhuzailu6_png,sxbjl_game_ludan_img_zhuzailu7_png,sxbjl_game_ludan_img_zhuzailu8_png,sxbjl_game_ludan_img_zhuzailu9_png,sxbjl_game_roadlist_bg_png,sxbjl_game_roadlist_btn_zhankai_allroad_png,sxbjl_game_roadlist_btn_zhankai_allroad01_png,sxbjl_game_roadlist_btn_zhankai_dalu_png,sxbjl_game_roadlist_btn_zhankai_dalu01_png,sxbjl_game_roadlist_btn_zhankai_zhupanlu_png,sxbjl_game_roadlist_btn_zhankai_zhupanlu01_png,sxbjl_game_roadlist_ludan_bg_png,sxbjl_game_roadlist_wenlu_png,sxbjl_game_roadlist_zk_kaung_png,sxbjl_game_toux_btn_caidan_png,glow_1_png,glow_2_png,glow_3_png,table_png,user_info_board_png,bet_img_png,btn_player_png,money_icon_png,no1_png,no10_png,no11_png,no12_png,no13_png,no14_png,no15_png,no16_png,no17_png,no18_png,no19_png,no2_png,no20_png,no3_png,no4_png,no5_png,no6_png,no7_png,no8_png,no9_png,player_list_board_png,bjl_game_startBetting_png,text_prepare_png,text_open_png,text_bonus_png,text_bet_png,bjl_game_changtable_bg_png,bjl_game_changtable_btn_png",
+			"name": "bjl_game"
+		},
+		{
+			"keys": "bjl_hall_bg_png,bjl_hall_bg_renwu_png,bjl_hall_btn_room1_png,bjl_hall_btn_room1_selected_png,bjl_hall_btn_room2_png,bjl_hall_btn_room2_selected_png,bjl_hall_btn_room3_png,bjl_hall_btn_room3_selected_png,bjl_hall_btn_room4_png,bjl_hall_btn_room4_selected_png,bjl_hall_header_bg_png,bjl_hall_list_bg_png,bjl_hall_list_btn_entergame_png,bjl_hall_logo_png,bjl_hall_notice_bg_png,bjl_hall_touxiang_tubiao_png,bjl_hall_ludan_img_dalu1_png,bjl_hall_ludan_img_dalu2_png,bjl_hall_ludan_img_dalu3_png,bjl_hall_ludan_img_dalu4_png,bjl_hall_btn_bangzhu_png,bjl_hall_btn_fanhui_png,bjl_hall_btn_jilv_png,sxbjl_hall_touxiang_tubiao_bg_png,sxbjl_hall_touxiang_tubiao_bg2_png,sxbjl_hall_touxiang_tubiao_bg3_png,bjl_hall_list_item_bg_png,bjl_windows_help_bg_png,bjl_windows_record_bg_png,bjl_windows_record_text_1_png,bjl_windows_record_text_2_png,bjl_windows_record_text_3_png,bjl_windows_record_text_4_png,bjl_windows_record_text_5_png",
+			"name": "bjl_hall"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "silence.mp3",
+			"type": "sound",
+			"name": "silence_mp3"
+		},
+		{
+			"url": "assets/data/BJL/game/chip/sxbjl_game_chip_10.png",
+			"type": "image",
+			"name": "sxbjl_game_chip_10_png"
+		},
+		{
+			"url": "assets/data/BJL/game/chip/sxbjl_game_chip_100.png",
+			"type": "image",
+			"name": "sxbjl_game_chip_100_png"
+		},
+		{
+			"url": "assets/data/BJL/game/chip/sxbjl_game_chip_1000.png",
+			"type": "image",
+			"name": "sxbjl_game_chip_1000_png"
+		},
+		{
+			"url": "assets/data/BJL/game/chip/sxbjl_game_chip_10000.png",
+			"type": "image",
+			"name": "sxbjl_game_chip_10000_png"
+		},
+		{
+			"url": "assets/data/BJL/game/chip/sxbjl_game_chip_2500.png",
+			"type": "image",
+			"name": "sxbjl_game_chip_2500_png"
+		},
+		{
+			"url": "assets/data/BJL/game/chip/sxbjl_game_chip_50.png",
+			"type": "image",
+			"name": "sxbjl_game_chip_50_png"
+		},
+		{
+			"url": "assets/data/BJL/game/chip/sxbjl_game_chip_500.png",
+			"type": "image",
+			"name": "sxbjl_game_chip_500_png"
+		},
+		{
+			"url": "assets/data/BJL/game/chip/sxbjl_game_chip_5000.png",
+			"type": "image",
+			"name": "sxbjl_game_chip_5000_png"
+		},
+		{
+			"url": "assets/data/BJL/game/chip/sxbjl_game_chip_bg.png",
+			"type": "image",
+			"name": "sxbjl_game_chip_bg_png"
+		},
+		{
+			"url": "assets/data/BJL/game/chip/sxbjl_game_chip_xuanzhong.png",
+			"type": "image",
+			"name": "sxbjl_game_chip_xuanzhong_png"
+		},
+		{
+			"url": "assets/data/BJL/game/menu/sxbjl_game_caidan_bg.png",
+			"type": "image",
+			"name": "sxbjl_game_caidan_bg_png"
+		},
+		{
+			"url": "assets/data/BJL/game/menu/sxbjl_game_caidan_btn_bangzhu.png",
+			"type": "image",
+			"name": "sxbjl_game_caidan_btn_bangzhu_png"
+		},
+		{
+			"url": "assets/data/BJL/game/menu/sxbjl_game_caidan_btn_fankui.png",
+			"type": "image",
+			"name": "sxbjl_game_caidan_btn_fankui_png"
+		},
+		{
+			"url": "assets/data/BJL/game/menu/sxbjl_game_caidan_btn_jilv.png",
+			"type": "image",
+			"name": "sxbjl_game_caidan_btn_jilv_png"
+		},
+		{
+			"url": "assets/data/BJL/game/menu/sxbjl_game_caidan_btn_shezhi.png",
+			"type": "image",
+			"name": "sxbjl_game_caidan_btn_shezhi_png"
+		},
+		{
+			"url": "assets/data/BJL/game/menu/sxbjl_game_caidan_btn_tuichu.png",
+			"type": "image",
+			"name": "sxbjl_game_caidan_btn_tuichu_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_bg.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_bg_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_dalu1.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_dalu1_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_dalu2.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_dalu2_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_dalu3.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_dalu3_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_dalu4.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_dalu4_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_xiaolu1.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_xiaolu1_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_xiaolu2.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_xiaolu2_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_xiaoqianglu1.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_xiaoqianglu1_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_xiaoqianglu2.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_xiaoqianglu2_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu1.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu1_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu10.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu10_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu11.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu11_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu12.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu12_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu2.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu2_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu3.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu3_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu4.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu4_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu5.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu5_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu6.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu6_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu7.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu7_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu8.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu8_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu9.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu9_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_roadlist_btn_zhankai_dalu.png",
+			"type": "image",
+			"name": "sxbjl_game_roadlist_btn_zhankai_dalu_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_roadlist_btn_zhankai_dalu01.png",
+			"type": "image",
+			"name": "sxbjl_game_roadlist_btn_zhankai_dalu01_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_roadlist_btn_zhankai_zhupanlu.png",
+			"type": "image",
+			"name": "sxbjl_game_roadlist_btn_zhankai_zhupanlu_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_roadlist_btn_zhankai_zhupanlu01.png",
+			"type": "image",
+			"name": "sxbjl_game_roadlist_btn_zhankai_zhupanlu01_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_roadlist_ludan_bg.png",
+			"type": "image",
+			"name": "sxbjl_game_roadlist_ludan_bg_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_roadlist_zk_kaung.png",
+			"type": "image",
+			"name": "sxbjl_game_roadlist_zk_kaung_png"
+		},
+		{
+			"url": "assets/data/BJL/game/sxbjl_game_toux_btn_caidan.png",
+			"type": "image",
+			"name": "sxbjl_game_toux_btn_caidan_png"
+		},
+		{
+			"url": "assets/data/BJL/window/feedback/sxbjl_window_feedback_bg2.png",
+			"type": "image",
+			"name": "sxbjl_window_feedback_bg2_png"
+		},
+		{
+			"url": "assets/data/BJL/window/setting/sxbjl_windows_setting.png",
+			"type": "image",
+			"name": "sxbjl_windows_setting_png"
+		},
+		{
+			"url": "assets/data/BJL/window/setting/sxbjl_windows_setting_adjustment1.png",
+			"type": "image",
+			"name": "sxbjl_windows_setting_adjustment1_png"
+		},
+		{
+			"url": "assets/data/BJL/window/setting/sxbjl_windows_setting_adjustment2.png",
+			"type": "image",
+			"name": "sxbjl_windows_setting_adjustment2_png"
+		},
+		{
+			"url": "assets/data/BJL/window/setting/sxbjl_windows_setting_btn.png",
+			"type": "image",
+			"name": "sxbjl_windows_setting_btn_png"
+		},
+		{
+			"url": "assets/data/BJL/window/setting/sxbjl_windows_setting_music.png",
+			"type": "image",
+			"name": "sxbjl_windows_setting_music_png"
+		},
+		{
+			"url": "assets/data/BJL/window/setting/sxbjl_windows_setting_sound.png",
+			"type": "image",
+			"name": "sxbjl_windows_setting_sound_png"
+		},
+		{
+			"url": "assets/data/BJL/window/setting/sxbjl_windows_setting_sound_off.png",
+			"type": "image",
+			"name": "sxbjl_windows_setting_sound_off_png"
+		},
+		{
+			"url": "assets/data/BJL/window/setting/sxbjl_windows_setting_sound_on.png",
+			"type": "image",
+			"name": "sxbjl_windows_setting_sound_on_png"
+		},
+		{
+			"url": "assets/data/BJL/window/tips/sxbjl_windows_tips_bg.png",
+			"type": "image",
+			"name": "sxbjl_windows_tips_bg_png"
+		},
+		{
+			"url": "assets/data/BJL/window/tips/sxbjl_windows_tips_close.png",
+			"type": "image",
+			"name": "sxbjl_windows_tips_close_png"
+		},
+		{
+			"url": "assets/data/BJL/window/tips/sxbjl_windows_tips_confirm.png",
+			"type": "image",
+			"name": "sxbjl_windows_tips_confirm_png"
+		},
+		{
+			"url": "assets/data/loading_bg.jpg",
+			"type": "image",
+			"name": "loading_bg_jpg"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_dayanlu1.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_dayanlu1_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_dayanlu2.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_dayanlu2_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/btn_cancel.png",
+			"type": "image",
+			"name": "btn_cancel_png"
+		},
+		{
+			"url": "assets/data/BJL/game/game_bg.png",
+			"type": "image",
+			"name": "game_bg_png"
+		},
+		{
+			"url": "assets/data/BJL/game/table/glow_3.png",
+			"type": "image",
+			"name": "glow_3_png"
+		},
+		{
+			"url": "assets/data/BJL/game/table/table.png",
+			"type": "image",
+			"name": "table_png"
+		},
+		{
+			"url": "assets/data/BJL/game/table/glow_1.png",
+			"type": "image",
+			"name": "glow_1_png"
+		},
+		{
+			"url": "assets/data/BJL/game/table/glow_2.png",
+			"type": "image",
+			"name": "glow_2_png"
+		},
+		{
+			"url": "assets/data/BJL/game/game_bottom_bg.png",
+			"type": "image",
+			"name": "game_bottom_bg_png"
+		},
+		{
+			"url": "assets/data/BJL/game/btn_full.png",
+			"type": "image",
+			"name": "btn_full_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_bg2.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_bg2_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_roadlist_btn_zhankai_allroad.png",
+			"type": "image",
+			"name": "sxbjl_game_roadlist_btn_zhankai_allroad_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_roadlist_btn_zhankai_allroad01.png",
+			"type": "image",
+			"name": "sxbjl_game_roadlist_btn_zhankai_allroad01_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu_s11.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu_s11_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu_s12.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu_s12_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_dayanlu3.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_dayanlu3_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_dayanlu4.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_dayanlu4_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu_s1.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu_s1_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu_s2.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu_s2_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu_s3.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu_s3_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu_s4.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu_s4_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu_s5.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu_s5_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu_s6.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu_s6_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu_s7.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu_s7_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu_s8.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu_s8_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu_s9.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu_s9_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_ludan_img_zhuzailu_s10.png",
+			"type": "image",
+			"name": "sxbjl_game_ludan_img_zhuzailu_s10_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_roadlist_wenlu.png",
+			"type": "image",
+			"name": "sxbjl_game_roadlist_wenlu_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/sxbjl_game_roadlist_bg.png",
+			"type": "image",
+			"name": "sxbjl_game_roadlist_bg_png"
+		},
+		{
+			"url": "assets/data/BJL/game/chip/sxbjl_game_chip_20000.png",
+			"type": "image",
+			"name": "sxbjl_game_chip_20000_png"
+		},
+		{
+			"url": "assets/data/BJL/game/chip/sxbjl_game_chip_4.png",
+			"type": "image",
+			"name": "sxbjl_game_chip_4_png"
+		},
+		{
+			"url": "assets/data/BJL/game/chip/sxbjl_game_chip_20.png",
+			"type": "image",
+			"name": "sxbjl_game_chip_20_png"
+		},
+		{
+			"url": "assets/data/BJL/game/chip/sxbjl_game_chip_40.png",
+			"type": "image",
+			"name": "sxbjl_game_chip_40_png"
+		},
+		{
+			"url": "assets/data/BJL/game/chip/sxbjl_game_chip_200.png",
+			"type": "image",
+			"name": "sxbjl_game_chip_200_png"
+		},
+		{
+			"url": "assets/data/BJL/game/chip/sxbjl_game_chip_2000.png",
+			"type": "image",
+			"name": "sxbjl_game_chip_2000_png"
+		},
+		{
+			"url": "assets/data/BJL/game/chip/sxbjl_game_chip_3000.png",
+			"type": "image",
+			"name": "sxbjl_game_chip_3000_png"
+		},
+		{
+			"url": "assets/data/BJL/game/chip/sxbjl_game_chip_6000.png",
+			"type": "image",
+			"name": "sxbjl_game_chip_6000_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/red_l.png",
+			"type": "image",
+			"name": "red_l_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/slash_blue_m.png",
+			"type": "image",
+			"name": "slash_blue_m_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/slash_red_m.png",
+			"type": "image",
+			"name": "slash_red_m_png"
+		},
+		{
+			"url": "assets/data/BJL/game/roadlist/blue_l.png",
+			"type": "image",
+			"name": "blue_l_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_45.png",
+			"type": "image",
+			"name": "card_45_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_46.png",
+			"type": "image",
+			"name": "card_46_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_47.png",
+			"type": "image",
+			"name": "card_47_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_48.png",
+			"type": "image",
+			"name": "card_48_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_49.png",
+			"type": "image",
+			"name": "card_49_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_50.png",
+			"type": "image",
+			"name": "card_50_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_51.png",
+			"type": "image",
+			"name": "card_51_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_52.png",
+			"type": "image",
+			"name": "card_52_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/poker_card_back.png",
+			"type": "image",
+			"name": "poker_card_back_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_1.png",
+			"type": "image",
+			"name": "card_1_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_2.png",
+			"type": "image",
+			"name": "card_2_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_3.png",
+			"type": "image",
+			"name": "card_3_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_4.png",
+			"type": "image",
+			"name": "card_4_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_5.png",
+			"type": "image",
+			"name": "card_5_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_6.png",
+			"type": "image",
+			"name": "card_6_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_7.png",
+			"type": "image",
+			"name": "card_7_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_8.png",
+			"type": "image",
+			"name": "card_8_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_9.png",
+			"type": "image",
+			"name": "card_9_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_10.png",
+			"type": "image",
+			"name": "card_10_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_11.png",
+			"type": "image",
+			"name": "card_11_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_12.png",
+			"type": "image",
+			"name": "card_12_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_13.png",
+			"type": "image",
+			"name": "card_13_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_14.png",
+			"type": "image",
+			"name": "card_14_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_15.png",
+			"type": "image",
+			"name": "card_15_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_16.png",
+			"type": "image",
+			"name": "card_16_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_17.png",
+			"type": "image",
+			"name": "card_17_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_18.png",
+			"type": "image",
+			"name": "card_18_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_19.png",
+			"type": "image",
+			"name": "card_19_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_20.png",
+			"type": "image",
+			"name": "card_20_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_21.png",
+			"type": "image",
+			"name": "card_21_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_22.png",
+			"type": "image",
+			"name": "card_22_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_23.png",
+			"type": "image",
+			"name": "card_23_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_24.png",
+			"type": "image",
+			"name": "card_24_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_25.png",
+			"type": "image",
+			"name": "card_25_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_26.png",
+			"type": "image",
+			"name": "card_26_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_27.png",
+			"type": "image",
+			"name": "card_27_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_28.png",
+			"type": "image",
+			"name": "card_28_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_29.png",
+			"type": "image",
+			"name": "card_29_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_30.png",
+			"type": "image",
+			"name": "card_30_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_31.png",
+			"type": "image",
+			"name": "card_31_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_32.png",
+			"type": "image",
+			"name": "card_32_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_33.png",
+			"type": "image",
+			"name": "card_33_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_34.png",
+			"type": "image",
+			"name": "card_34_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_35.png",
+			"type": "image",
+			"name": "card_35_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_36.png",
+			"type": "image",
+			"name": "card_36_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_37.png",
+			"type": "image",
+			"name": "card_37_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_38.png",
+			"type": "image",
+			"name": "card_38_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_39.png",
+			"type": "image",
+			"name": "card_39_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_40.png",
+			"type": "image",
+			"name": "card_40_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_41.png",
+			"type": "image",
+			"name": "card_41_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_42.png",
+			"type": "image",
+			"name": "card_42_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_43.png",
+			"type": "image",
+			"name": "card_43_png"
+		},
+		{
+			"url": "assets/data/BJL/game/card/card_44.png",
+			"type": "image",
+			"name": "card_44_png"
+		},
+		{
+			"url": "assets/data/BJL/window/setting/setting_music.png",
+			"type": "image",
+			"name": "setting_music_png"
+		},
+		{
+			"url": "assets/data/BJL/window/setting/setting_volume.png",
+			"type": "image",
+			"name": "setting_volume_png"
+		},
+		{
+			"url": "assets/data/BJL/window/setting/setting_text_music.png",
+			"type": "image",
+			"name": "setting_text_music_png"
+		},
+		{
+			"url": "assets/data/BJL/window/setting/setting_text_sound.png",
+			"type": "image",
+			"name": "setting_text_sound_png"
+		},
+		{
+			"url": "assets/data/BJL/game/menu/game_txt_record.png",
+			"type": "image",
+			"name": "game_txt_record_png"
+		},
+		{
+			"url": "assets/data/BJL/game/menu/game_txt_setting.png",
+			"type": "image",
+			"name": "game_txt_setting_png"
+		},
+		{
+			"url": "assets/data/BJL/game/menu/game_txt_suggest.png",
+			"type": "image",
+			"name": "game_txt_suggest_png"
+		},
+		{
+			"url": "assets/data/BJL/game/menu/game_txt_back.png",
+			"type": "image",
+			"name": "game_txt_back_png"
+		},
+		{
+			"url": "assets/data/BJL/game/menu/game_txt_help.png",
+			"type": "image",
+			"name": "game_txt_help_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/bjl_hall_bg.png",
+			"type": "image",
+			"name": "bjl_hall_bg_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/bjl_hall_logo.png",
+			"type": "image",
+			"name": "bjl_hall_logo_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/bjl_hall_header_bg.png",
+			"type": "image",
+			"name": "bjl_hall_header_bg_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/bjl_hall_bg_renwu.png",
+			"type": "image",
+			"name": "bjl_hall_bg_renwu_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/menu/bjl_hall_btn_jilv.png",
+			"type": "image",
+			"name": "bjl_hall_btn_jilv_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/menu/bjl_hall_btn_bangzhu.png",
+			"type": "image",
+			"name": "bjl_hall_btn_bangzhu_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/menu/bjl_hall_btn_fanhui.png",
+			"type": "image",
+			"name": "bjl_hall_btn_fanhui_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/bjl_hall_touxiang_tubiao.png",
+			"type": "image",
+			"name": "bjl_hall_touxiang_tubiao_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/bjl_hall_notice_bg.png",
+			"type": "image",
+			"name": "bjl_hall_notice_bg_png"
+		},
+		{
+			"url": "assets/data/sounds/bjl_bgm.mp3",
+			"type": "sound",
+			"name": "bjl_bgm_mp3"
+		},
+		{
+			"url": "assets/data/sounds/window_open.mp3",
+			"type": "sound",
+			"name": "window_open_mp3"
+		},
+		{
+			"url": "assets/data/BJL/game/user_info_board.png",
+			"type": "image",
+			"name": "user_info_board_png"
+		},
+		{
+			"url": "assets/data/BJL/game/icon_money.png",
+			"type": "image",
+			"name": "icon_money_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/bjl_hall_btn_room1.png",
+			"type": "image",
+			"name": "bjl_hall_btn_room1_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/bjl_hall_btn_room1_selected.png",
+			"type": "image",
+			"name": "bjl_hall_btn_room1_selected_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/bjl_hall_btn_room2.png",
+			"type": "image",
+			"name": "bjl_hall_btn_room2_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/bjl_hall_btn_room2_selected.png",
+			"type": "image",
+			"name": "bjl_hall_btn_room2_selected_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/bjl_hall_btn_room3.png",
+			"type": "image",
+			"name": "bjl_hall_btn_room3_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/bjl_hall_btn_room3_selected.png",
+			"type": "image",
+			"name": "bjl_hall_btn_room3_selected_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/bjl_hall_btn_room4.png",
+			"type": "image",
+			"name": "bjl_hall_btn_room4_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/bjl_hall_btn_room4_selected.png",
+			"type": "image",
+			"name": "bjl_hall_btn_room4_selected_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/bjl_hall_list_bg.png",
+			"type": "image",
+			"name": "bjl_hall_list_bg_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/bet_img.png",
+			"type": "image",
+			"name": "bet_img_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/btn_player.png",
+			"type": "image",
+			"name": "btn_player_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/money_icon.png",
+			"type": "image",
+			"name": "money_icon_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/no1.png",
+			"type": "image",
+			"name": "no1_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/no10.png",
+			"type": "image",
+			"name": "no10_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/no11.png",
+			"type": "image",
+			"name": "no11_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/no12.png",
+			"type": "image",
+			"name": "no12_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/no13.png",
+			"type": "image",
+			"name": "no13_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/no14.png",
+			"type": "image",
+			"name": "no14_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/no15.png",
+			"type": "image",
+			"name": "no15_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/no16.png",
+			"type": "image",
+			"name": "no16_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/no17.png",
+			"type": "image",
+			"name": "no17_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/no18.png",
+			"type": "image",
+			"name": "no18_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/no19.png",
+			"type": "image",
+			"name": "no19_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/no2.png",
+			"type": "image",
+			"name": "no2_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/no20.png",
+			"type": "image",
+			"name": "no20_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/no3.png",
+			"type": "image",
+			"name": "no3_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/no4.png",
+			"type": "image",
+			"name": "no4_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/no5.png",
+			"type": "image",
+			"name": "no5_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/no6.png",
+			"type": "image",
+			"name": "no6_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/no7.png",
+			"type": "image",
+			"name": "no7_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/no8.png",
+			"type": "image",
+			"name": "no8_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/no9.png",
+			"type": "image",
+			"name": "no9_png"
+		},
+		{
+			"url": "assets/data/BJL/game/playerlist/player_list_board.png",
+			"type": "image",
+			"name": "player_list_board_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/bjl_hall_list_btn_entergame.png",
+			"type": "image",
+			"name": "bjl_hall_list_btn_entergame_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/ludan/bjl_hall_ludan_img_dalu1.png",
+			"type": "image",
+			"name": "bjl_hall_ludan_img_dalu1_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/ludan/bjl_hall_ludan_img_dalu3.png",
+			"type": "image",
+			"name": "bjl_hall_ludan_img_dalu3_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/ludan/bjl_hall_ludan_img_dalu4.png",
+			"type": "image",
+			"name": "bjl_hall_ludan_img_dalu4_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/ludan/bjl_hall_ludan_img_dalu2.png",
+			"type": "image",
+			"name": "bjl_hall_ludan_img_dalu2_png"
+		},
+		{
+			"url": "assets/data/BJL/window/help/bjl_windows_help_bg.png",
+			"type": "image",
+			"name": "bjl_windows_help_bg_png"
+		},
+		{
+			"url": "assets/data/BJL/game/timer.png",
+			"type": "image",
+			"name": "timer_png"
+		},
+		{
+			"url": "assets/data/BJL/window/record/bjl_windows_record_text_4.png",
+			"type": "image",
+			"name": "bjl_windows_record_text_4_png"
+		},
+		{
+			"url": "assets/data/BJL/window/record/bjl_windows_record_text_5.png",
+			"type": "image",
+			"name": "bjl_windows_record_text_5_png"
+		},
+		{
+			"url": "assets/data/BJL/window/record/bjl_windows_record_bg.png",
+			"type": "image",
+			"name": "bjl_windows_record_bg_png"
+		},
+		{
+			"url": "assets/data/BJL/window/record/bjl_windows_record_text_1.png",
+			"type": "image",
+			"name": "bjl_windows_record_text_1_png"
+		},
+		{
+			"url": "assets/data/BJL/window/record/bjl_windows_record_text_2.png",
+			"type": "image",
+			"name": "bjl_windows_record_text_2_png"
+		},
+		{
+			"url": "assets/data/BJL/window/record/bjl_windows_record_text_3.png",
+			"type": "image",
+			"name": "bjl_windows_record_text_3_png"
+		},
+		{
+			"url": "assets/data/BJL/game/text_bet.png",
+			"type": "image",
+			"name": "text_bet_png"
+		},
+		{
+			"url": "assets/data/BJL/game/text_bonus.png",
+			"type": "image",
+			"name": "text_bonus_png"
+		},
+		{
+			"url": "assets/data/BJL/game/text_open.png",
+			"type": "image",
+			"name": "text_open_png"
+		},
+		{
+			"url": "assets/data/BJL/game/text_prepare.png",
+			"type": "image",
+			"name": "text_prepare_png"
+		},
+		{
+			"url": "assets/data/BJL/game/bjl_game_startBetting.png",
+			"type": "image",
+			"name": "bjl_game_startBetting_png"
+		},
+		{
+			"url": "assets/data/BJL/game/common0.png",
+			"type": "image",
+			"name": "common0_png"
+		},
+		{
+			"url": "assets/data/loading/loading0.png",
+			"type": "image",
+			"name": "loading0_png"
+		},
+		{
+			"url": "assets/data/loading/loading1.png",
+			"type": "image",
+			"name": "loading1_png"
+		},
+		{
+			"url": "assets/data/loading/loading2.png",
+			"type": "image",
+			"name": "loading2_png"
+		},
+		{
+			"url": "assets/data/loading/loading3.png",
+			"type": "image",
+			"name": "loading3_png"
+		},
+		{
+			"url": "assets/data/loading/loading4.png",
+			"type": "image",
+			"name": "loading4_png"
+		},
+		{
+			"url": "assets/data/loading/loading5.png",
+			"type": "image",
+			"name": "loading5_png"
+		},
+		{
+			"url": "assets/data/loading/loading6.png",
+			"type": "image",
+			"name": "loading6_png"
+		},
+		{
+			"url": "assets/data/loading/loading7.png",
+			"type": "image",
+			"name": "loading7_png"
+		},
+		{
+			"url": "assets/data/sounds/bjl_chipfly_short.mp3",
+			"type": "sound",
+			"name": "bjl_chipfly_short_mp3"
+		},
+		{
+			"url": "assets/data/sounds/bjl_chipfly_long.mp3",
+			"type": "sound",
+			"name": "bjl_chipfly_long_mp3"
+		},
+		{
+			"url": "assets/data/sounds/bjl_bet.mp3",
+			"type": "sound",
+			"name": "bjl_bet_mp3"
+		},
+		{
+			"url": "assets/data/BJL/game/changetable/bjl_game_changtable_bg.png",
+			"type": "image",
+			"name": "bjl_game_changtable_bg_png"
+		},
+		{
+			"url": "assets/data/BJL/game/changetable/bjl_game_changtable_btn.png",
+			"type": "image",
+			"name": "bjl_game_changtable_btn_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/sxbjl_hall_touxiang_tubiao_bg.png",
+			"type": "image",
+			"name": "sxbjl_hall_touxiang_tubiao_bg_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/sxbjl_hall_touxiang_tubiao_bg2.png",
+			"type": "image",
+			"name": "sxbjl_hall_touxiang_tubiao_bg2_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/sxbjl_hall_touxiang_tubiao_bg3.png",
+			"type": "image",
+			"name": "sxbjl_hall_touxiang_tubiao_bg3_png"
+		},
+		{
+			"url": "assets/data/BJL/hall/bjl_hall_list_item_bg.png",
+			"type": "image",
+			"name": "bjl_hall_list_item_bg_png"
+		}
+	]
+}
